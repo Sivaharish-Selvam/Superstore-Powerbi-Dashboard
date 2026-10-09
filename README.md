@@ -73,7 +73,7 @@ superstore-powerbi-dashboard/
 ├── data/
 │   └── Sample_-_Superstore.csv
 ├── dashboard/
-│   └── Sales_Report.pbix
+│   └── Superstore_Sales_Analysis.pbix
 ├── screenshots/
 │   ├── 1_executive_overview.png
 │   ├── 2_profitability.png
